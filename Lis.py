@@ -1,5 +1,3 @@
-pip install matplotlib
-
 import numpy as np
 import matplotlib.pyplot as plt
 from ipywidgets import interactive
